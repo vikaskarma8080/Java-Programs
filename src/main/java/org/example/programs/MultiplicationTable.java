@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class MultiplicationTable {
     public static void main(String[] args) {
         /*bjdbwaknfeqkfhekurfnke*/
+        System.out.println("Table :- ");
         Scanner sc=new Scanner(System.in);
         int number=sc.nextInt();
         for(int i=1;i<= 10;i++)
