@@ -14,3 +14,10 @@ class Factorial
             System.out.println("Factorial of "+n+" is = "+fact);
     }
 }
+/* Output
+*
+* Enter an integer to calculate it's factorial
+5
+Factorial of 5 is = 120
+*
+* */

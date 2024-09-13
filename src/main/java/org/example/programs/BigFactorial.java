@@ -24,3 +24,10 @@ class BigFactorial
         }
     }
 }
+/* Output
+*
+* Input an integer
+5
+5! = 120
+*
+* */

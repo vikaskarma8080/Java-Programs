@@ -30,3 +30,7 @@ public class NestedIfElse {
         }
     }
 }
+/*    Output :-
+40
+Passed D
+* */

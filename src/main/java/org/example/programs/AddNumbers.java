@@ -9,6 +9,13 @@ public class AddNumbers {
         a=sc.nextInt();
         b=sc.nextInt();
         c=a+b;
-        System.out.println(c);
+        System.out.println("Total a+b is "+c);
     }
 }
+/* Output
+
+10
+20
+Total a+b is 30
+
+* */

@@ -21,3 +21,12 @@ class LargestOfThreeNumbers
             System.out.println("Entered numbers are not distinct.");
     }
 }
+/*  Output
+*
+* Enter three integers
+1
+2
+3
+Third number is largest.
+*
+* */

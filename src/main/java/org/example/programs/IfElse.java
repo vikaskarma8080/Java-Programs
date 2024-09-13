@@ -18,3 +18,9 @@ public class IfElse {
         }
     }
 }
+/* Output
+*
+* 40
+passed
+*
+* */

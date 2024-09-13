@@ -9,3 +9,8 @@ public class Condition {
             System.out.println("What are you doing there..");
     }
 }
+/* Output
+
+java developer
+
+* */

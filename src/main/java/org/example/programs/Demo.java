@@ -5,3 +5,8 @@ public class Demo {
         System.out.println("for testing..");
     }
 }
+/* Output
+*
+* for testing
+*
+* */

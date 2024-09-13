@@ -5,3 +5,8 @@ public class SimpleJavaProgram {
         System.out.println("This is first simple program");
     }
 }
+/*    Output :-
+
+This is first simple program
+
+* */

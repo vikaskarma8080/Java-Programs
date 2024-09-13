@@ -12,3 +12,10 @@ public class FahrenheitToCelsius {
         System.out.println("Fahrenheit To Celsius"+temp);
     }
 }
+/* output
+*
+* Pls enter
+20
+Fahrenheit To Celsius-6.6666665
+*
+* */

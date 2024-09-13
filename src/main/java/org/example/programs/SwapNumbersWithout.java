@@ -16,3 +16,16 @@ public class SwapNumbersWithout {
         System.out.println("After Swapping\nx = "+x+"\ny = "+y);
     }
 }
+/*    Output :-
+
+Enter x and y
+10
+20
+Before Swapping
+x = 10
+y = 20
+After Swapping
+x = 20
+y = 10
+
+* */

@@ -12,3 +12,7 @@ public class OddOrEven {
             System.out.println("Number is odd");
     }
 }
+/*    Output :-
+2
+Number is even
+* */

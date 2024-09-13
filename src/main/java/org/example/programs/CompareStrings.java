@@ -12,3 +12,8 @@ public class CompareStrings {
             System.out.println("both are equals...");
     }
 }
+/* Output
+
+* greater then..
+
+* */

@@ -10,3 +10,9 @@ public class SwapNumbers {
         System.out.println("after.."+ a +" "+ b);
     }
 }
+/*    Output :-
+
+before..10 20
+after..20 10
+
+* */

@@ -21,3 +21,14 @@ public class AddingLargeNumbers {
         System.out.println("Total : "+c);
     }
 }
+/* Output
+*
+* Enter your 1st number
+10
+number is 10
+Enter your 1st number
+20
+number is 20
+Total : 20
+*
+* */
