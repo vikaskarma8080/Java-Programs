@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class StringCompression {
     public static void main(String[] args) {
-        String input = "vv";
+        String input = "aabbccdd";
         String compressed = compressString(input);
         System.out.println("Compressed String: " + compressed);
     }
