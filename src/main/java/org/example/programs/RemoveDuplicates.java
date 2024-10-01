@@ -5,7 +5,6 @@ import java.util.HashSet;
 public class RemoveDuplicates {
     public static void main(String[] args) {
         int[] arrayWithDuplicates = {1, 2, 3, 2, 4, 3, 5, 1};
-
         int[] uniqueArray = removeDuplicates(arrayWithDuplicates);
         System.out.println("Array without duplicates: " + Arrays.toString(uniqueArray));
     }

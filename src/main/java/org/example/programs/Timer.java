@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class Timer {
     public static void main(String[] args) {
-        int totalSeconds = 7200;
+        int totalSeconds = 120;
         int elapsedSeconds = 0;
 
         while (elapsedSeconds < totalSeconds) {
