@@ -1,0 +1,194 @@
+
+1. **Reverse a String**
+   - **Solution**: Use a loop or `StringBuilder` to reverse the string.
+
+2. **Check for Palindrome**
+   - **Solution**: Compare the string with its reverse.
+
+3. **Fibonacci Sequence**
+   - **Solution**: Use recursion or iteration to generate Fibonacci numbers.
+
+4. **Factorial of a Number**
+   - **Solution**: Implement using recursion or a loop.
+
+5. **Prime Number Check**
+   - **Solution**: Loop through numbers and check divisibility.
+
+6. **Count Vowels and Consonants**
+   - **Solution**: Iterate through the string and count vowels/consonants.
+
+7. **Find Largest and Smallest Element in Array**
+   - **Solution**: Loop through the array while keeping track of max/min values.
+
+8. **Bubble Sort**
+   - **Solution**: Implement the bubble sort algorithm.
+
+9. **Selection Sort**
+   - **Solution**: Find the minimum and swap it with the current position.
+
+10. **Insertion Sort**
+    - **Solution**: Build a sorted array one element at a time.
+
+11. **Check for Anagrams**
+    - **Solution**: Sort both strings and compare.
+
+12. **Find Missing Number in Array**
+    - **Solution**: Use the formula for the sum of first n natural numbers.
+
+13. **Merge Two Sorted Arrays**
+    - **Solution**: Use two pointers to traverse both arrays.
+
+14. **Count Occurrences of a Character in a String**
+    - **Solution**: Iterate through the string and count.
+
+15. **Remove Duplicates from Array**
+    - **Solution**: Use a HashSet to track unique elements.
+
+### Intermediate Level Questions
+
+16. **Two Sum Problem**
+    - **Solution**: Use a HashMap to store indices of elements.
+
+17. **Rotate Array**
+    - **Solution**: Reverse parts of the array to achieve rotation.
+
+18. **Find First Non-Repeating Character**
+    - **Solution**: Use a HashMap to count occurrences.
+
+19. **Valid Parentheses**
+    - **Solution**: Use a stack to check matching parentheses.
+
+20. **Implement Queue using Stacks**
+    - **Solution**: Use two stacks to simulate queue operations.
+
+21. **Find Kth Largest Element in an Array**
+    - **Solution**: Sort the array or use a min-heap.
+
+22. **Find the Intersection of Two Arrays**
+    - **Solution**: Use HashSet to find common elements.
+
+23. **Longest Common Prefix**
+    - **Solution**: Compare characters of strings vertically.
+
+24. **Climbing Stairs**
+    - **Solution**: Use dynamic programming to count ways.
+
+25. **Power of Two**
+    - **Solution**: Check if `n` is greater than zero and if `n & (n - 1) == 0`.
+
+26. **Subset Sum Problem**
+    - **Solution**: Use dynamic programming to find subsets.
+
+27. **Find All Permutations of a String**
+    - **Solution**: Use backtracking to generate permutations.
+
+28. **Kth Smallest Element in a BST**
+    - **Solution**: In-order traversal to find the kth element.
+
+29. **Longest Substring Without Repeating Characters**
+    - **Solution**: Use a sliding window approach with a HashMap.
+
+30. **Check if Two Strings are One Edit Away**
+    - **Solution**: Compare lengths and edit counts.
+
+### Advanced Level Questions
+
+31. **Binary Search**
+    - **Solution**: Implement the binary search algorithm on a sorted array.
+
+32. **Depth-First Search (DFS) in a Graph**
+    - **Solution**: Use recursion or a stack to traverse.
+
+33. **Breadth-First Search (BFS) in a Graph**
+    - **Solution**: Use a queue for level-order traversal.
+
+34. **Dijkstra's Algorithm**
+    - **Solution**: Use a priority queue to find the shortest path.
+
+35. **Dynamic Programming: Knapsack Problem**
+    - **Solution**: Use a 2D array to store results of subproblems.
+
+36. **Longest Increasing Subsequence**
+    - **Solution**: Use dynamic programming or binary search.
+
+37. **Find Cycle in a Linked List**
+    - **Solution**: Use Floyd's Tortoise and Hare algorithm.
+
+38. **Merge Intervals**
+    - **Solution**: Sort intervals and merge overlapping ones.
+
+39. **Top K Frequent Elements**
+    - **Solution**: Use a HashMap and a priority queue.
+
+40. **Find the Diameter of a Binary Tree**
+    - **Solution**: Use recursion to compute the height of subtrees.
+
+41. **Word Ladder**
+    - **Solution**: Use BFS to find the shortest transformation sequence.
+
+42. **Count Islands in a 2D Matrix**
+    - **Solution**: Use DFS or BFS to explore connected components.
+
+43. **Binary Tree Level Order Traversal**
+    - **Solution**: Use a queue to traverse levels.
+
+44. **Maximum Subarray (Kadane's Algorithm)**
+    - **Solution**: Track current and maximum sums while iterating.
+
+45. **Find Median in a Sorted Array**
+    - **Solution**: Use binary search to find the median.
+
+### Data Structure-Specific Questions
+
+46. **Implement a Stack**
+    - **Solution**: Use an array or linked list.
+
+47. **Implement a Queue**
+    - **Solution**: Use an array or linked list.
+
+48. **Implement a Linked List**
+    - **Solution**: Create a class for nodes and manage pointers.
+
+49. **Binary Search Tree Operations**
+    - **Solution**: Implement insert, delete, and search functions.
+
+50. **Graph Representation (Adjacency List/Matrix)**
+    - **Solution**: Use lists or 2D arrays to represent edges.
+
+51. **Heap Operations (Insert/Delete)**
+    - **Solution**: Use an array and maintain the heap property.
+
+52. **Trie Operations (Insert/Search)**
+    - **Solution**: Implement a TrieNode class to manage characters.
+
+53. **Check if a Binary Tree is Balanced**
+    - **Solution**: Calculate heights of subtrees recursively.
+
+54. **Serialize and Deserialize a Binary Tree**
+    - **Solution**: Use pre-order traversal for serialization.
+
+55. **Kth Largest Element in a Stream**
+    - **Solution**: Use a min-heap to track the top K elements.
+
+### Additional Challenges
+
+56. **Count Unique Paths in a Grid**
+57. **Generate Parentheses**
+58. **Combination Sum**
+59. **Search in Rotated Sorted Array**
+60. **Construct Binary Tree from Inorder and Postorder Traversal**
+61. **Max Product Subarray**
+62. **Course Schedule (Topological Sort)**
+63. **Search in a 2D Matrix**
+64. **N-Queens Problem**
+65. **Longest Palindromic Substring**
+66. **Group Anagrams**
+67. **Product of Array Except Self**
+68. **Shortest Path in a Grid**
+69. **Maximum Depth of Binary Tree**
+70. **Valid Sudoku**
+71. **Reverse Linked List**
+72. **Minimum Path Sum**
+73. **Candy Distribution**
+74. **Game of Life**
+75. **Spiral Matrix**
